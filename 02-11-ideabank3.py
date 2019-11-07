@@ -1,4 +1,4 @@
-# idea bank v1
+# idea bank v3
 # import sys
 # print "This is the name of the script: ", sys.argv[0]
 # print "Number of arguments: ", len(sys.argv)
